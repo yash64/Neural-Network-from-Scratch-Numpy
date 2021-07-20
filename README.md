@@ -1,5 +1,7 @@
 # NeuralNetwork from Scratch using Numpy
 
+I am trying to implement a basic neural network model from scratch using `numpy` and with different activation functions at hidden layer. 
+
 This notebook contains following sections.
 
 1. Load input data
